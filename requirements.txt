@@ -1,0 +1,8 @@
+openai
+python-dotenv
+pyyaml
+ddgs
+AsyncDDGS
+playwright
+beautifulsoup4
+html2text

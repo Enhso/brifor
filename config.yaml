@@ -1,0 +1,13 @@
+model_id: "tngtech/deepseek-r1t2-chimera:free"
+
+search:
+  max_queries: 10
+  scrape_timeout: 15
+
+domain_tiers:
+  tier_1:
+    - "nature.com"
+    - "arxiv.org"
+  tier_2:
+    - "reuters.com"
+    - "bloomberg.com"
